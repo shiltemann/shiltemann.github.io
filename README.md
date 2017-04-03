@@ -14,6 +14,7 @@ I also (casually) participate in infosec CTF events. For a list of upcoming even
 |-----------|---------------------------------------------|
 |Email      | s.hiltemann@erasmusmc.nl, zazkia@gmail.com  |
 |GPG        | 87D2 B4E8 7ECF 49EB F4A6  BB28 EE95 D46F 0BFB 5253 |
+|ORCID ID   | http://orcid.org/0000-0003-3803-468X        |
 |LinkedIn   | [profile](https://www.linkedin.com/in/shiltemann)     |
 |XMPP       | zazkia@gmail.com                            |
 |Twitter    | @shiltemann                                 |
